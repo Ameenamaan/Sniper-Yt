@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💢 Our Group 💢', url="https://t.me/HDmoviePp"
+                                    '⭕️ Our Group ⭕️', url="https://t.me/HDmoviePp"
                                 )
                         ]
                     ]
